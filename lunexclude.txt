@@ -1,0 +1,6 @@
+# This is file is used for LUN exclusion. Please use the full path.
+# Example:
+# /dev/sda
+# /dev/sdc
+/dev/sda
+/dev/sdb
